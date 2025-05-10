@@ -1,1 +1,1 @@
-# Entities-and-Relationship-in-ER-diagram
+# Entities-and-Relationship-in-ER-diagram representation that shows how entities people,objects,places,contepts user and booking entities typically represents a one to many relationship and single can make multiple booking,while each booking is made by only one user and er diagram entity could store information about the booking such as the booking id,date,time, or other relevant details
